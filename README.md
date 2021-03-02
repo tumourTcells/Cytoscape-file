@@ -1,3 +1,4 @@
 # Cytoscape-file
-In order to load the network, you need to download the file and then upload such as a local file.
-Opening Cytoscape, you can select File -> Import -> Network from File…
+1. Download the file Networks_Tcells.cys
+2. Open Cytoscape
+3. Select File -> Import -> Network from File and  selected Networks_Tcells.cys file
